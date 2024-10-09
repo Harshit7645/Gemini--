@@ -1,1 +1,1 @@
-hello there
+this is the latest version of the gemini integration - 09/10/24.
